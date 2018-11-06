@@ -2,7 +2,6 @@
 layout: single
 title:  "Vorbereitung für 'Hürth bleibt bunt!' Demo am 17.11.2018 - To-do-Liste"
 date:   2018-11-06 16:30:00 +0100
-categories: Info
 ---
 
 * **Inhaltliche Vorbereitung**
