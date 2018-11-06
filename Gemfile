@@ -9,21 +9,20 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 # To upgrade, run `bundle update`.
 
 #gem "jekyll", "~> 3.5"
-gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
-#   gem "jekyll-paginate"
-#   gem "jekyll-sitemap"
-#   gem "jekyll-gist"
-#   gem "jekyll-feed"
-#   gem "jemoji"
-#   gem "jekyll-data"
+# gem "jekyll-paginate"
+gem "jekyll-sitemap"
+#gem "jekyll-gist"
+#gem "jekyll-feed"
+#gem "jemoji"
+#gem "jekyll-data"
 gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
