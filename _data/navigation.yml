@@ -1,12 +1,9 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Kommt zur Demo am 17.11.2018!"
+    url: /Kommt-zur-Demo-am-17-11-2018-in-Alt-Huerth/
+  - title: "Impressum"
+    url: /Impressum/
+  - title: "Lizenzen"
+    url: /Lizenzen/
+    
