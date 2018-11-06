@@ -6,11 +6,11 @@ categories: Info
 ---
 Die Technik für den Betrieb der neuen Seite [http://huerth-bleibt-bunt.de](http://huerth-bleibt-bunt.de) ist nun einsatzfähig. 
 
-Das war ein Stück Arbeit, - demnächst dann auch aktuelle Inhalte hier. 
+Das war ein Stück Arbeit, - Inhalte folgen dann bald hier.
 
 Georg
 
-
+![huerth-bleibt-bunt.github.io Technik Screenshot](/assets/images/huerth-bleibt-bunt.github.io_Technik_Screenshot.png)
 
 
 
