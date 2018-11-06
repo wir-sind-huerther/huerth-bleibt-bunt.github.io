@@ -24,7 +24,7 @@ categories: Info
 
 	
 * **Technik**
-  * CNAME statt Frame Redirect prüfen/umsetzen für [http://www.huerth-bleibt-bunt.de](http://www.huerth-bleibt-bunt.de/), um auf Mobilgeräten auch perfekte Lesbarkeit und Nutzbarkeit zu haben.
+  * erledigt: DNS A Record statt Frame Redirect umsetzen für [http://www.huerth-bleibt-bunt.de](http://www.huerth-bleibt-bunt.de/), um auf Mobilgeräten auch perfekte Lesbarkeit und Nutzbarkeit zu haben.
  
  
 
