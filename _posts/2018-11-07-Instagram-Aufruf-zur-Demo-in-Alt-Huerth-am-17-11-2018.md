@@ -9,7 +9,7 @@ date:   2018-11-07 19:20:00 +0100
 </figure> 
 > [https://www.instagram.com/p/Bp4ktI_hUYK/](https://www.instagram.com/p/Bp4ktI_hUYK/)
 
-Meine Tochter betreibt den gestern von ihr angelegten Instagram-Account [https://www.instagram.com/huerthbleibtbunt/](https://www.instagram.com/huerthbleibtbunt/), - sie ist für den Inhalt dort zuständig.
+Eine meiner Töchter betreibt den gestern von ihr angelegten Instagram-Account [https://www.instagram.com/huerthbleibtbunt/](https://www.instagram.com/huerthbleibtbunt/), - sie ist für den Inhalt dort zuständig.
 (Bitte liken, wer bei Instagram ist und sich damit identifizieren kann ;)
 
 > Es geht wieder los...
