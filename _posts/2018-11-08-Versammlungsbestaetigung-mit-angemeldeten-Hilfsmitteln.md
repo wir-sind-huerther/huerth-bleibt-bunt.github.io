@@ -3,7 +3,7 @@ layout: single
 title:  "Versammlungsbestätigung für 'Hürth bleibt bunt!' Demo am 17.11.2018 in Alt-Hürth mit angemeldeten Hilfsmitteln ;)"
 date:   2018-11-08 23:15:00 +0100
 ---
-In der Versammlungsbestätigung habe wir folgende angemeldete Hilfsmittel bestätigt bekommen ;)
+In der Versammlungsbestätigung haben wir folgende angemeldete Hilfsmittel bestätigt bekommen ;)
 
 > * Transparente
 > * Flyer
