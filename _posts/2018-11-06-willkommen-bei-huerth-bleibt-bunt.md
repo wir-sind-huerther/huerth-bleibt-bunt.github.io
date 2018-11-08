@@ -7,7 +7,7 @@ Die Technik für den Betrieb der neuen Seite [http://huerth-bleibt-bunt.de](http
 
 Das war ein Stück Arbeit, - Inhalte folgen dann bald hier.
 
-Georg
+Thomas
 
 ![huerth-bleibt-bunt.github.io Technik Screenshot](/assets/images/huerth-bleibt-bunt.github.io_Technik_Screenshot.png)
 
