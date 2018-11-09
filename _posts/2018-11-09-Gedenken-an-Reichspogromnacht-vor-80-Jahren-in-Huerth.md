@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "Gedenken an die Reichspogramnacht vor 80 Jahren in Hürth"
+title:  "Gedenken an die Reichspogromnacht vor 80 Jahren in Hürth"
 date:   2018-11-07 17:30:00 +0100
 ---
 
-![Gedenken an die Reichspogramnacht vor 80 Jahren in Hürth](/assets/images/2018-11-09-Gedenken-an-Reichspogromnacht-vor-80-Jahren-in-Huerth-01.jpg)
-![Gedenken an die Reichspogramnacht vor 80 Jahren in Hürth](/assets/images/2018-11-09-Gedenken-an-Reichspogromnacht-vor-80-Jahren-in-Huerth-02.jpg)
-![Gedenken an die Reichspogramnacht vor 80 Jahren in Hürth](/assets/images/2018-11-09-Gedenken-an-Reichspogromnacht-vor-80-Jahren-in-Huerth-03.jpg)
+![Gedenken an die Reichspogromnacht vor 80 Jahren in Hürth](/assets/images/2018-11-09-Gedenken-an-Reichspogromnacht-vor-80-Jahren-in-Huerth-01.jpg)
+![Gedenken an die Reichspogromnacht vor 80 Jahren in Hürth](/assets/images/2018-11-09-Gedenken-an-Reichspogromnacht-vor-80-Jahren-in-Huerth-02.jpg)
+![Gedenken an die Reichspogromnacht vor 80 Jahren in Hürth](/assets/images/2018-11-09-Gedenken-an-Reichspogromnacht-vor-80-Jahren-in-Huerth-03.jpg)
 
 > Heute vor 80 Jahren liefen Nationalsozialisten durch Hürth. Ihr Ziel waren Geschäfte jüdischer Mitbürger und die Synagoge. Wen sie antrafen, traten, prügelten und bespuckten sie. Weil sie Juden waren. Nicht weil sie kriminell waren oder sonst etwas verbrochen hatten. Sie hatten keinerlei Schuld auf sich geladen. Aber man betrachtete sie als minderwertig und schuld an jeglichem Unglück.
 >
