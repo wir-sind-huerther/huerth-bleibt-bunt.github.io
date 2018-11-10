@@ -43,9 +43,18 @@ Schaut mal rein unter
 >
 >Wir sagen DANKE!
 
+![Kontakt](/assets/images/2018-11-10-Kennt-ihr-die-Huerther-Bruecke-der-Kulturen-04-Kontakt.jpg)
+
+Sie können uns gerne über unsere Emailadresse kontaktieren:
+**info@huerther-bruecke-der-kulturen.de**
+
+Postalisch und während unserer Bürozeiten (Mo, Mi, Fr von 10 bis 13:30 Uhr) auch persönlich und telefonisch erreichen Sie uns unter:
+> Hürther Brücke der Kulturen e. V.
+> Friedrich-Ebert-Straße 36
+> 50354 Hürth
+> Tel.: 02233 7138669 
+
 [![http://huerther-bruecke-der-kulturen.de/](/assets/images/2018-11-10-Kennt-ihr-die-Huerther-Bruecke-der-Kulturen-03-Webseite.png)](http://huerther-bruecke-der-kulturen.de/)
-
-
 
 
 
