@@ -2,6 +2,8 @@
 layout: single
 title:  "Kennt ihr die Hürther Brücke der Kulturen?"
 date:   2018-11-10 19:45:00 +0100
+header:
+ image: /assets/images/2018-11-10-Kennt-ihr-die-Huerther-Bruecke-der-Kulturen-02-tagline.png
 ---
 <figure class="align-center">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2018-11-10-Kennt-ihr-die-Huerther-Bruecke-der-Kulturen-02-tagline.png" alt="Tagline">
