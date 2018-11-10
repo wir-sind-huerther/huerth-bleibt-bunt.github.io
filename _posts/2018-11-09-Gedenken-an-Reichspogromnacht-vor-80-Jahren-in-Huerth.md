@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Gedenken an die Reichspogromnacht vor 80 Jahren in Hürth"
-date:   2018-11-07 17:30:00 +0100
+date:   2018-11-09 19:30:00 +0100
 ---
 
 ![Gedenken an die Reichspogromnacht vor 80 Jahren in Hürth](/assets/images/2018-11-09-Gedenken-an-Reichspogromnacht-vor-80-Jahren-in-Huerth-01.jpg)
