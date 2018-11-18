@@ -5,10 +5,9 @@ date:   2018-11-17 09:00:00 +0100
 header:
  image: /assets/images/2018-11-17-Plakate-malen-und-Interviews-mit-Phoenix-vor-der-Demo-in-Alt-Huerth-Header.JPG
 ---
+Vor Ort haben wir vor der Demo zusammen Plakate gemalt.
 
 #wirsindbunt #wirsindmehr #wirsindhuerther
-
-Vor Ort haben wir vor der Demo zusammen Plakate gemalt.
 
 Außerdem:
 > Der Fernsehsender Phoenix hat für einen Beitrag gedreht, - Sendetermin steht noch nicht fest, müsste aber in ca. 2-3 Wochen sein, ich informiere euch, sobald ich was dazu höre ;)
