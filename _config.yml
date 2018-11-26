@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : aqua # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : contrast # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "Hürth bleibt bunt!"
+title                    : "Wir sind Hürther"
 title_separator          : "-"
 name                     : "Georg Elser"
-description              : "Für ein tolerantes und menschenfreundliches Hürth, gegen Hass und Fremdenfeindlichkeit. #wirsindmehr"
-url                      : "https://huerth-bleibt-bunt.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Wir – das sind Menschen aus verschiedensten Religionen, Vereinen, Organisationen und Parteien."
+url                      : "https://wir-sind-huerther.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "huerth-bleibt-bunt/huerth-bleibt-bunt.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/Huerth_bleibt_bunt_Header_680x200.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "wir-sind-huerther/wir-sind-huerther.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/wir-sind-huerther-logo-2480x480.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -80,7 +80,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               : &facebook "huerth.bleibt.bunt"
+  username               : &facebook "wir.sind.huerther"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -101,30 +101,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hürth bleibt bunt!"
-  avatar           : "/assets/images/Huerth_bleibt_bunt_Quadrat_320x320.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Für ein tolerantes und menschen-freundliches Hürth, gegen Hass und Fremdenfeindlichkeit. #wirsindmehr"
+  name             : "Wir sind Hürther"
+  avatar           : "/assets/images/wir-sind-huerther-logo-600x600.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Wir – das sind Menschen aus verschiedensten Religionen, Vereinen, Organisationen und Parteien."
   location         : "Hürth"
-  # email            : "huerthbleibtbunt@web.de"
+  # email            : "info@wir-sind-huerther.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:huerthbleibtbunt@web.de
+      url: mailto:info@wir-sind-huerther.de
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://huerth-bleibt-bunt.de/"
+      url: "http://wir-sind-huerther.de/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/huerth.bleibt.bunt/"
+      url: "https://www.facebook.com/wir.sind.huerther/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/huerthbleibtbunt/"
+      url: "https://www.instagram.com/wir.sind.huerther/"
 
 # Site Footer
 footer:
@@ -289,7 +289,7 @@ defaults:
     values:
       layout: splash
       header:
-        image: /assets/images/Huerth_bleibt_bunt_Header_1280x360.png
+        image: /assets/images/wir-sind-huerther-logo-2480x480.png
       author_profile: true
       read_time: true
       comments: # true
