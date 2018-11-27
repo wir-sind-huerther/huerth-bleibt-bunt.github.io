@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Wir sind Hürther"
-  avatar           : "/assets/images/wir-sind-huerther-logo-600x600.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/wir-sind-huerther-logo-1200x1200-Version-01.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Wir – das sind Menschen aus verschiedensten Religionen, Vereinen, Organisationen und Parteien."
   location         : "Hürth"
   # email            : "info@wir-sind-huerther.de"
