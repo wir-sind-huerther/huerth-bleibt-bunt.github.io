@@ -282,6 +282,7 @@ collections:
 
 # Defaults
 defaults:
+
   # _posts
   - scope:
       path: ""
@@ -295,6 +296,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      
       sidebar:
         nav: "posts"
   # _docs

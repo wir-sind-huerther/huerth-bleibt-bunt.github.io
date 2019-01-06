@@ -2,6 +2,11 @@
 layout: single
 title:  "Was Europa für uns bedeutet"
 date:   2019-01-03 12:00:00 +0100
+toc: false
+header:
+ teaser: /assets/images/2019-01-01-Europaflagge-Header.png
+ image: /assets/images/2019-01-01-Europaflagge-Header.png
+ caption: "Bild aus [**WP**](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union)"
 ---
 Im Mai 2019 findet die Europawahl statt. Viele Parteien bewerben sich darum, dort in den kommenden Jahren mitarbeiten zu können. Nicht alle Parteien unterstützen die Werte der EU.
 

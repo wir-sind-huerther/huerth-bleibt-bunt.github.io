@@ -2,6 +2,10 @@
 layout: single
 title:  "Junge Flüchtlinge in Hürth"
 date:   2019-01-05 13:00:00 +0100
+header:
+ image: /assets/images/2019-01-01-Zwei-Jahre-Deutschland-Header.jpg
+ teaser: /assets/images/2019-01-01-Zwei-Jahre-Deutschland-Header.jpg
+ caption: "Bild aus [**YT**](https://www.youtube.com/watch?v=Z8MJf2BigJg)"
 ---
 # Filmprojekt 'Zwei Jahre Deutschland' mit geflüchteten Jugendlichen im Berli-Kino
 Welche Erfahrungen machen junge Flüchtlinge nach ihrer Ankunft in Deutschland. Welche Wege gehen sie. Damit setzt sich ein Film auseinander, der in Hürth entstanden ist.
@@ -14,6 +18,10 @@ Der [Heimat- und Kulturverein Hürth e. V.](http://hkv-huerth.de) wird diesen Fi
 
 Der Film ist auch auf YouTube verfügbar: [https://www.youtube.com/watch?v=Z8MJf2BigJg](https://www.youtube.com/watch?v=Z8MJf2BigJg)
 
+{% include video id="Z8MJf2BigJg" provider="youtube" %}
+
+
+Hier ein paar Bilder aus dem Film:
 ![Screenshot aus Film 01](/assets/images/2019-01-01-Zwei-Jahre-Deutschland-Film-01.jpg)
 ![Screenshot aus Film 02](/assets/images/2019-01-01-Zwei-Jahre-Deutschland-Film-02.jpg)
 ![Screenshot aus Film 03](/assets/images/2019-01-01-Zwei-Jahre-Deutschland-Film-03.jpg)

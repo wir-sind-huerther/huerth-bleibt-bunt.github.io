@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Über uns"
-    url: /Ueber-uns/
+  - title: "Start"
+    url: /
   - title: "Impressum"
     url: /Impressum/
   - title: "Lizenzen"
