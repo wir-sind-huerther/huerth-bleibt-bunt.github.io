@@ -59,6 +59,8 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
 
 ### Wir sind nicht allein, wir sind viele!
 
+![Wir sind Hürther](/assets/images/Startseite/Startseite-Bild-07.jpg)
+
 ![Wir sind Hürther Logo](/assets/images/wir-sind-huerther-logo-2480x480.png)
 
 {% for post in paginator.posts %}
