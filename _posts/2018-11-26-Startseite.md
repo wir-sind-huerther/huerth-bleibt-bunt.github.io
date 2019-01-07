@@ -24,15 +24,15 @@ gallery1:
     alt: "Demo am Berliner Platz"
     title: "Demo am Berliner Platz"
 gallery2:
-  - url: /assets/images/Startseite/Startseite-Bild-04.jpg
+  - url: /assets/images/Startseite/Startseite-Bild-04.JPG
     image_path: /assets/images/Startseite/Startseite-Bild-04-th.jpg
     alt: "Plakat Weltoffen"
     title: "Plakat Weltoffen"
-  - url: /assets/images/Startseite/Startseite-Bild-05.jpg
+  - url: /assets/images/Startseite/Startseite-Bild-05.JPG
     image_path: /assets/images/Startseite/Startseite-Bild-05-th.jpg
     alt: "Demo in Alt-Hürth"
     title: "Demo in Alt-Hürth"
-  - url: /assets/images/Startseite/Startseite-Bild-06.jpg
+  - url: /assets/images/Startseite/Startseite-Bild-06.JPG
     image_path: /assets/images/Startseite/Startseite-Bild-06-th.jpg
     alt: "Plakat Tolerant"
     title: "Plakat Tolerant"
