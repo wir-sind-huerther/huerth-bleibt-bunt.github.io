@@ -19,7 +19,7 @@ locale                   : "de-DE"
 title                    : "Wir sind Hürther"
 title_separator          : "-"
 name                     : "Thomas Stegh"
-description              : "Wir – das sind Menschen aus verschiedensten Religionen, Vereinen, Organisationen und Parteien."
+description              : "Wir – das sind Menschen aus verschiedenen Religionen, Vereinen, Organisationen und Parteien."
 url                      : "https://wir-sind-huerther.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "wir-sind-huerther/wir-sind-huerther.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,13 +101,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weltoffen und tolerant"
-  avatar           : "/assets/images/wir-sind-huerther-logo-1200x1200-Version-01.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Wir – das sind Menschen aus verschiedensten Religionen, Vereinen, Organisationen und Parteien."
+  # name             : "Weltoffen und tolerant"
+  avatar           : "/assets/images/Flag_of_Europe_400x400.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Wir – das sind Menschen aus verschiedenen Religionen, Vereinen, Organisationen und Parteien."
   location         : "Hürth"
   # email            : "info@wir-sind-huerther.de"
   links:
-    - label: "Email"
+    - label: "E-Mail"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:info@wir-sind-huerther.de
     - label: "Website"

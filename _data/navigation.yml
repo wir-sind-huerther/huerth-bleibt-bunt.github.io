@@ -2,6 +2,8 @@
 main:
   - title: "Start"
     url: /
+  - title: "Über uns"
+    url: /Ueber-uns
   - title: "Impressum"
     url: /Impressum/
   - title: "Lizenzen"

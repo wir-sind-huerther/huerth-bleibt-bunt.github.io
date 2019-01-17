@@ -9,11 +9,11 @@ header:
 ---
 Anfang 2019 werden in vielen Bushaltestellen lebensgroß Menschen auf Plakaten zu sehen sein, die sich als Hürther zu dem Motto „weltoffen und tolerant“ bekennen. 
 
-Diese Menschen leben in Hürth, sind hier geboren oder stammen aus vielen anderen Städten, Ländern und Kulturen. 
+Diese Menschen leben in Hürth, sind hier geboren oder stammen aus anderen Städten, Ländern und Kulturen. 
 
-Sie eint das Bedürfnis, sich zu zur weltoffenen und toleranten Gesellschaft in Hürth zu bekennen.
+Sie eint das Bedürfnis, Gesicht zu zeigen für eine weltoffene und tolerante Gesellschaft in Deutschland und in unserer Stadt. Für sie gilt: Menschen sind Menschen.
 
-Foto eines Fotoshootings für die Plakataktion:
+Foto eines Shootings für die Plakataktion:
 ![Plakataktion Fotoshooting](/assets/images/2019-01-01-Plakataktion-Fotoshooting.jpg)
 
 

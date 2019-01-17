@@ -7,14 +7,14 @@ header:
  teaser: /assets/images/2019-01-01-Zwei-Jahre-Deutschland-Header.jpg
  caption: "Bild aus [**YT**](https://www.youtube.com/watch?v=Z8MJf2BigJg)"
 ---
-# Filmprojekt 'Zwei Jahre Deutschland' mit geflüchteten Jugendlichen im Berli-Kino
-Welche Erfahrungen machen junge Flüchtlinge nach ihrer Ankunft in Deutschland. Welche Wege gehen sie. Damit setzt sich ein Film auseinander, der in Hürth entstanden ist.
+# Filmprojekt 'Zwei Jahre Deutschland' mit geflüchteten Jugendlichen im Berli-Kino:
+Welche Erfahrungen machen junge Flüchtlinge nach ihrer Ankunft in Deutschland? Welche Wege gehen sie? Damit setzt sich ein Film auseinander, der in Hürth entstanden ist.
 
 Im Juli 2017 startete das Filmprojekt "Zwei Jahre Deutschland" mit geflüchteten Jugendlichen aus der Jugendhilfe im Sozialraum Hürth. Mit viel Humor, aber auch Offenheit und Ernsthaftigkeit erzählen die fünf Protagonisten von ihren Erfahrungen und Zukunftsträumen in Deutschland und von den besonderen Herausforderungen. Die Ergebnisse des Filmprojekts gewähren Einblick in das aktuelle Leben der Geflüchteten. 
 
 Finanzielle Unterstützung erhielt das Filmprojekt durch die [Bürgerstiftung Hürth](http://www.buergerstiftung-huerth.de/) und die [Stiftung Diakonie Michaelshoven](https://www.diakonie-michaelshoven.de/).
 
-Der [Heimat- und Kulturverein Hürth e. V.](http://hkv-huerth.de) wird diesen Film demnächst im [Berli-Kino in Berrenrath](https://www.berli-huerth.de/) anbieten.
+Der [Heimat- und Kulturverein Hürth e. V.](http://hkv-huerth.de) wird diesen Film demnächst im [Berli-Kino in Berrenrath](https://www.berli-huerth.de/) zeigen.
 
 Der Film ist auch auf YouTube verfügbar: [https://www.youtube.com/watch?v=Z8MJf2BigJg](https://www.youtube.com/watch?v=Z8MJf2BigJg)
 

@@ -4,10 +4,10 @@ permalink: /Impressum/
 last_modified_at: 2018-11-26T23:45:00+01:00
 ---
 Private Seite, Inhaber:
-Thomas Stegh
-Kochstraße 21
-50354 Hürth
-info@wir-sind-huerther.de
+Thomas Stegh,
+Kochstraße 21,
+50354 Hürth,
+info@wir-sind-huerther.de,
 0170/3321323
  
 Lt §19 Abs.2 UStG wird weder Umsatzsteuer erhoben noch aufgeführt.

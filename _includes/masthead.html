@@ -2,7 +2,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <a class="site-title" href="{{ "/" | relative_url }}"><img src="/assets/images/wir-sind-huerther-logo-186x36.png" alt="{{ site.title | escape }}" itemprop="image"></a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}

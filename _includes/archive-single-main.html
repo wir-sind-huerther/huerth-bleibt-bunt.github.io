@@ -47,7 +47,7 @@
     <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %} -->
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}
 		
-	[&nbsp;<a href="{{ post.url | relative_url }}">Weiter&nbsp;lesen...</a>&nbsp;]</p>{% endif %}
+	[&nbsp;<a href="{{ post.url | relative_url }}">Weiterlesen...</a>&nbsp;]</p>{% endif %}
   </article>
 </div>
 <div>&nbsp;</div>

@@ -32,9 +32,9 @@ Diese Werte prägen unseren europäischen Lebensstil:
 ## Menschenrechte
 > Die Menschenrechte sind durch die Charta der Grundrechte der Europäischen Union garantiert. Dazu gehören das Recht auf Freiheit von Diskriminierung aufgrund des Geschlechts, der Rasse oder der ethnischen Herkunft, der Religion oder der Weltanschauung, einer Behinderung, des Alters oder der sexuellen Ausrichtung sowie das Recht auf den Schutz personenbezogener Daten oder des Zugangs zur Justiz.
 
-Die Hürther Parteien CDU, SPD, Grüne, FDP und Linke wollen in einer gemeinsamen Veranstaltung die Bedeutung der EU und Ihrer Werte unterstützen. Das wird kein Wahlkampfabend im herkömmlichen Sinn, weil sich die veranstaltenden Parteien einig sind über die großartige Bedeutung der EU. 
+Die Hürther Parteien CDU, SPD, Grüne, FDP und Linke wollen in einer gemeinsamen Veranstaltung die Bedeutung der EU und ihrer Werte unterstützen. Das wird kein Wahlkampfabend im herkömmlichen Sinn, weil sich die veranstaltenden Parteien einig sind über die herausragende Bedeutung der EU. 
 
-Diese Parteien streben im - im Gegensatz zur AfD - nicht den Austritt Deutschlands aus der EU an. Sie fordern nicht - im Gegensatz zur AfD - den Euro zu beenden und sie fordern - im Gegensatz zur AfD - keine überwachten Grenzen und Grenzübergangsstellen.
+Diese Parteien streben - im Gegensatz zur AfD - nicht den Austritt Deutschlands aus der EU an. Sie fordern nicht - im Gegensatz zur AfD -, den Euro zu beenden, und sie fordern - im Gegensatz zur AfD - keine überwachten Grenzen und Grenzübergangsstellen.
 
 Die genannten Parteien streben eine möglichst hohe Wahlbeteiligung für die Europawahl an. Damit der europäische Gedanke und seine Werte weiterhin friedenstiftend wirken können. 
 

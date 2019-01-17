@@ -7,7 +7,7 @@ header:
  teaser: /assets/images/2019-01-01-Migration-und-Wirtschaft-Header.jpg
  caption: "Foto CC BY-SA 3.0 aus [**WP**](https://de.wikipedia.org/wiki/Chemiepark_Knapsack)"
 ---
-Gemeinsam mit Wirtschaftsverbänden bereiten wir eine Veranstaltung vor, in der die Bedeutung von Migration für unsere Wirtschaft und damit letztendlich für unser aller Wohlstand dargestellt werden soll.
+Gemeinsam mit Wirtschaftsverbänden bereiten wir eine Veranstaltung vor, in der die Bedeutung von Migration für unsere Wirtschaft und damit letztlich für unser aller Wohlstand dargestellt werden soll.
 
 Auch hierzu demnächst mehr an dieser Stelle.
 
