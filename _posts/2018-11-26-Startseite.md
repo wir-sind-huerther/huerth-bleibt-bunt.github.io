@@ -1,6 +1,6 @@
 ---
 title: "WIR SIND HÜRTHER"
-date:   2019-01-05 15:00:00 +0100
+date:   2019-01-18 19:00:00 +0100
 permalink: /Ueber-uns
 layout: single
 # excerpt: "Wir – das sind Menschen aus verschiedensten Religionen, Vereinen, Organisationen und Parteien."
@@ -63,6 +63,7 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
 ![Wir sind Hürther Logo](/assets/images/wir-sind-huerther-logo-2480x480.png)
 
 
+
 # Erstunterzeichnende
 ## Vereine, Organisationen und Parteien
 
@@ -75,6 +76,11 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Die Parteien im Rat der Stadt Hürth
 ![Die Parteien im Rat der Stadt Hürth Logos](/assets/images/Logos/Parteien-im-Rat-der-Stadt-Huerth-Logos.png)
 
+  * Hürth bleibt bunt!
+![Hürth bleibt bunt!](/assets/images/Logos/Huerth_bleibt_bunt_Header_313x92.png)
+
+  * Alevitische Gemeinde im Rhein-Erft-Kreis
+![Alevitische Gemeinde im Rhein-Erft-Kreis](/assets/images/Logos/AKM-REK-Logo-90x92.jpg)
 
 ## Personen
 
@@ -88,8 +94,13 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Max Schrebb
   * Sven Welter
   * Thomas Stegh
-
-
+  * Elena Letezki 
+  * Helga Pimpertz 
+  * Masha Barazandehdoust
+  * Anna Mussawi 
+  * Bettina Tanneberger
+  * Britta Bojung 
+  * Erdeniz Arslan
 
 {% for post in paginator.posts %}
   {% include archive-single-main.html %}
