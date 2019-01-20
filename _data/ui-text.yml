@@ -416,7 +416,7 @@ de: &DEFAULT_DE
   toc_label                  : "Auf dieser Seite"
   ext_link_label             : "Direkter Link"
   less_than                  : "weniger als"
-  minute_read                : "Minuten zum lesen"
+  minute_read                : "Minute(n) Lesezeit"
   share_on_label             : "Teilen auf"
   meta_label                 :
   tags_label                 : "Tags:"

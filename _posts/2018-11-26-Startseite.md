@@ -85,23 +85,43 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
 ## Personen
 
   * Walther Boecker
+  * Sven Welter
+  * Britta Bojung 
   * Monika Streicher
-  * Lukas Gottschalk
+  * Max Schrebb
   * Martina Thomas
   * Ernst Püschel
   * Rudolf Karolus
+  * Engelbert Faßbender
+  * Beatrice Faßbender
+  * Gabi Frechen
   * Norbert Knape
-  * Max Schrebb
-  * Sven Welter
+  * Bernd Stammel 
+  * Lukas Gottschalk
   * Thomas Stegh
   * Elena Letezki 
   * Helga Pimpertz 
   * Masha Barazandehdoust
   * Anna Mussawi 
   * Bettina Tanneberger
-  * Britta Bojung 
+  * Hans-Peter Tschorn
   * Erdeniz Arslan
-
+  * Silvia und Dr. Pete Ambe
+  * Saleh Mati
+  * Katja Niewisch
+  * Panagiota Zachariadou-Boventer
+  * David Boventer
+  * Heiko Twellmann
+  * Stephan Renner
+  * Julian König
+  * Roman Hänsgen
+  * Anne Quack
+  * Silvia Lemmer
+  * Lieselotte Außem
+  * Herbert Außem
+  * Tobias Loder
+  * Udo Eberle 
+ 
 {% for post in paginator.posts %}
   {% include archive-single-main.html %}
 {% endfor %}
