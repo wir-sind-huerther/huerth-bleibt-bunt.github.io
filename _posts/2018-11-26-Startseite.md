@@ -108,7 +108,7 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Erdeniz Arslan
   * Silvia und Dr. Pete Ambe
   * Saleh Mati
-  * Katja Niewisch
+  * Katja Niewiesch-Reiners
   * Panagiota Zachariadou-Boventer
   * David Boventer
   * Heiko Twellmann
