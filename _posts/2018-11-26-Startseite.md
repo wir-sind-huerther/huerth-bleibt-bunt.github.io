@@ -121,6 +121,7 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Herbert Außem
   * Tobias Loder
   * Udo Eberle 
+  * Henriette Kökmen
  
 {% for post in paginator.posts %}
   {% include archive-single-main.html %}
