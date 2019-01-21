@@ -122,6 +122,8 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Tobias Loder
   * Udo Eberle 
   * Henriette Kökmen
+  * Vera Stegh
+  * Susanne Boecker
  
 {% for post in paginator.posts %}
   {% include archive-single-main.html %}
