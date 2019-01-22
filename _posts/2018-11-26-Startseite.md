@@ -1,6 +1,6 @@
 ---
 title: "WIR SIND HÜRTHER"
-date:   2019-01-18 19:00:00 +0100
+date:   2019-01-22 15:00:00 +0100
 permalink: /Ueber-uns
 layout: single
 # excerpt: "Wir – das sind Menschen aus verschiedensten Religionen, Vereinen, Organisationen und Parteien."
