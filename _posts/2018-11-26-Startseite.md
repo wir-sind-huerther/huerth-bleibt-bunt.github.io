@@ -1,6 +1,6 @@
 ---
 title: "WIR SIND HÜRTHER"
-date:   2019-01-22 15:00:00 +0100
+date:   2019-01-25 19:00:00 +0100
 permalink: /Ueber-uns
 layout: single
 # excerpt: "Wir – das sind Menschen aus verschiedensten Religionen, Vereinen, Organisationen und Parteien."
@@ -123,7 +123,14 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Udo Eberle 
   * Henriette Kökmen
   * Vera Stegh
+  * Fiona Stegh
+  * Miro Stegh
   * Susanne Boecker
+  * Walter Ley
+  * Rosemarie Gummich
+  * Andreas Manecke
+  * Christel Manecke
+  * Oda Ehlerding
  
 {% for post in paginator.posts %}
   {% include archive-single-main.html %}
