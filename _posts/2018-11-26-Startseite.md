@@ -77,10 +77,13 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
 ![Die Parteien im Rat der Stadt Hürth Logos](/assets/images/Logos/Parteien-im-Rat-der-Stadt-Huerth-Logos.png)
 
   * Hürth bleibt bunt!
-![Hürth bleibt bunt!](/assets/images/Logos/Huerth_bleibt_bunt_Header_313x92.png)
+![Hürth bleibt bunt! Logo](/assets/images/Logos/Huerth_bleibt_bunt_Header_313x92.png)
 
   * Alevitische Gemeinde im Rhein-Erft-Kreis
-![Alevitische Gemeinde im Rhein-Erft-Kreis](/assets/images/Logos/AKM-REK-Logo-90x92.jpg)
+![Alevitische Gemeinde im Rhein-Erft-Kreis Logo](/assets/images/Logos/AKM-REK-Logo-90x92.jpg)
+
+  * Stadtsportverband Hürth e.V
+![Stadtsportverband Hürth e.V Logo](/assets/images/Logos/Stadtsportverband-Huerth-Logo.png)
 
 ## Personen
 
@@ -89,6 +92,8 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Britta Bojung 
   * Monika Streicher
   * Max Schrebb
+  * Frank Rock
+  * Wolfgang Engel
   * Martina Thomas
   * Ernst Püschel
   * Rudolf Karolus
@@ -131,6 +136,11 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Andreas Manecke
   * Christel Manecke
   * Oda Ehlerding
+  * Kurt Schürmann
+  * Margit Reisewitz
+  * Silvia Schelp
+  * Jano Schmitz
+  * Hendrik Fuchs
  
 {% for post in paginator.posts %}
   {% include archive-single-main.html %}
