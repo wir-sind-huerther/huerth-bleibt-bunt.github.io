@@ -85,6 +85,10 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Stadtsportverband Hürth e.V
 ![Stadtsportverband Hürth e.V Logo](/assets/images/Logos/Stadtsportverband-Huerth-Logo.png)
 
+  * Evangelische Kirchengemeinde Hürth
+![Evangelische Kirchengemeinde Hürth Logo](/assets/images/Logos/Evangelische-Kirchengemeinde-Huerth-Logo-488x92.png)
+
+
 ## Personen
 
   * Walther Boecker
@@ -141,6 +145,8 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Silvia Schelp
   * Jano Schmitz
   * Hendrik Fuchs
+  * Dr. Dirk Ahrens-Salzsieder
+  * Ute Grieger-Jäger
  
 {% for post in paginator.posts %}
   {% include archive-single-main.html %}
