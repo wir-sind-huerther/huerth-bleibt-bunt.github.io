@@ -88,6 +88,9 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Evangelische Kirchengemeinde Hürth
 ![Evangelische Kirchengemeinde Hürth Logo](/assets/images/Logos/Evangelische-Kirchengemeinde-Huerth-Logo-488x92.png)
 
+  * Lionsclub Hürth/Rheinland
+![Lionsclub Hürth/Rheinland Logo](/assets/images/Logos/Lions-Club-Huerth-Logo-101x92.png)
+
 
 ## Personen
 
@@ -118,6 +121,7 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Silvia und Dr. Pete Ambe
   * Saleh Mati
   * Katja Niewiesch-Reiners
+  * Rüdiger Reiners
   * Panagiota Zachariadou-Boventer
   * David Boventer
   * Heiko Twellmann
@@ -147,6 +151,9 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Hendrik Fuchs
   * Dr. Dirk Ahrens-Salzsieder
   * Ute Grieger-Jäger
+  * Svenja Disselbeck
+  * Lukas Diehl
+  * Thomas Strauch 
  
 {% for post in paginator.posts %}
   {% include archive-single-main.html %}
