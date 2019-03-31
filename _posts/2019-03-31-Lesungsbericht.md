@@ -35,7 +35,7 @@ andere Gespräch zu führen.
 Die nächste Literatur-Veranstaltung von „Wir sind Hürther“ ist für den Herbst diesen
 Jahres angedacht.
 
-![Artikel "Zeichen setzen für Toleranz"](/assets/images/2019-03-31_Foto_Lesung_1.jpg)
+![Artikel "Zeichen setzen für Toleranz"](/assets/images/2019-03-31_Foto_Lesung_2.JPG)
 
 
 
