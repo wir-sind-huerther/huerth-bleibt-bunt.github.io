@@ -5,8 +5,8 @@ permalink: /Plakataktion
 layout: single
 # excerpt: "Wir – das sind Menschen aus verschiedensten Religionen, Vereinen, Organisationen und Parteien."
 header:
- image: /assets/images/wir-sind-huerther-logo-1000x194.png
- teaser: /assets/images/wir-sind-huerther-logo-1000x194.png
+ image: /assets/images/Plakataktion-Header.jpg
+ teaser: /assets/images/Plakataktion-Header.jpg
 tags: 
   - wirsindhuerther
   - wirsindmehr
