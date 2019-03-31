@@ -4,8 +4,8 @@ title:  "Bericht über Lesung bei Thalia"
 date:   2019-03-31 08:00:00 +0100
 toc: false
 header:
- teaser: /assets/images/2019-01-01-Lesungen-Header.jpg
- image: /assets/images/2019-01-01-Lesungen-Header.jpg
+ teaser: /assets/images/2019-03-31_Foto_Lesung_1.JPG
+ image: /assets/images/2019-03-31_Foto_Lesung_2.JPG
  caption: "Foto CC BY-SA 3.0 aus [**WMC**](https://commons.wikimedia.org/wiki/Book#/media/File:Old_book_bindings.jpg)"
 ---
 # Autorenlesung mit Barbara Beuys am Mittwoch, 20.03.2019 bei Thalia im Hürth Park
@@ -35,7 +35,7 @@ andere Gespräch zu führen.
 Die nächste Literatur-Veranstaltung von „Wir sind Hürther“ ist für den Herbst diesen
 Jahres angedacht.
 
-![Artikel "Zeichen setzen für Toleranz"](/assets/images/2019-03-31_Foto_Lesung_2.JPG)
+[[Lesung Barbara Beuys](/assets/images/019-03-31_Foto_Lesung_2.jpg)
 
 
 
