@@ -37,7 +37,7 @@ Jahres angedacht.
 
 ![Wir sind Hürther](/assets/images/2019-03-31_Foto_Lesung_2.JPG)
 
-![Lesung Barbara Beuys](/assets/images/2019-03-31_Foto_Lesung_2.JPG)
+![Lesung Barbara Beuys](/assets/images/2019-03-31_Foto_Lesung_1.JPG)
 
 
 
