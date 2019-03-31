@@ -75,10 +75,6 @@ gallery1:
     image_path: /assets/images/Plakate-Thumb/16-Strauch-und-Cikar.jpg
     alt: "Strauch-und-Cikar"
     title: "Strauch-und-Cikar"
-  - url: /assets/images/Plakate-Web/16-Strauch-und-Cikar.jpg
-    image_path: /assets/images/Plakate-Thumb/16-Strauch-und-Cikar.jpg
-    alt: "Strauch-und-Cikar"
-    title: "Strauch-und-Cikar"
   - url: /assets/images/Plakate-Web/17-Zileli-und-Tschorn.jpg
     image_path: /assets/images/Plakate-Thumb/17-Zileli-und-Tschorn.jpg
     alt: "Zileli-und-Tschorn"
@@ -107,6 +103,10 @@ gallery1:
     image_path: /assets/images/Plakate-Thumb/23-Kurthen-und-Grulich.jpg
     alt: "Kurthen-und-Grulich"
     title: "Kurthen-und-Grulich"
+      - url: /assets/images/Plakate-Web/24-Mundorf.jpg.jpg
+    image_path: /assets/images/Plakate-Thumb/24-Mundorf.jpg.jpg
+    alt: "Mundorf"
+    title: "Mundorf"
 ---
 
 Wir – das sind Menschen aus verschiedenen Religionen, Vereinen, Organisationen und Parteien. Wir haben uns zusammengetan, um für unsere liberale Gesellschaftsordnung und für ein starkes Europa zu werben, um einerseits Zeichen zu setzen für mehr Respekt gegenüber Menschen, die angeblich anders sind als wir, aber auch für ein Europa, das uns vor allem seit vielen Jahrzehnten Frieden gebracht hat.
