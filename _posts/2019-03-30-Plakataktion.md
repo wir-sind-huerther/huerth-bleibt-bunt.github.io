@@ -103,7 +103,7 @@ gallery1:
     image_path: /assets/images/Plakate-Thumb/23-Kurthen-und-Grulich.jpg
     alt: "Kurthen-und-Grulich"
     title: "Kurthen-und-Grulich"
-      - url: /assets/images/Plakate-Web/24-Mundorf.jpg.jpg
+  - url: /assets/images/Plakate-Web/24-Mundorf.jpg.jpg
     image_path: /assets/images/Plakate-Thumb/24-Mundorf.jpg.jpg
     alt: "Mundorf"
     title: "Mundorf"
