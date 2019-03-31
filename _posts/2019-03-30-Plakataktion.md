@@ -110,6 +110,7 @@ gallery1:
 ---
 
 Wir – das sind Menschen aus verschiedenen Religionen, Vereinen, Organisationen und Parteien. Wir haben uns zusammengetan, um für unsere liberale Gesellschaftsordnung und für ein starkes Europa zu werben, um einerseits Zeichen zu setzen für mehr Respekt gegenüber Menschen, die angeblich anders sind als wir, aber auch für ein Europa, das uns vor allem seit vielen Jahrzehnten Frieden gebracht hat.
+Mit unserer großen Plakataktion an den Hürther Bushaltestellen stellen wir uns den Hürther Bürgerinnen und Bürgern vor. Wir zeigen, dass wir viele sind und dass wir den Mund aufmachen für unsere liberale Gesellschaft.
 
 {% include gallery id="gallery1"%}
 
