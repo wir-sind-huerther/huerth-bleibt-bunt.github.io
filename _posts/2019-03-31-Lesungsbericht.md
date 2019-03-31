@@ -35,7 +35,9 @@ andere Gespräch zu führen.
 Die nächste Literatur-Veranstaltung von „Wir sind Hürther“ ist für den Herbst diesen
 Jahres angedacht.
 
-![Lesung Barbara Beuys](/assets/images/2019-03-31_Foto_Lesung_2.jpg)
+![Wir sind Hürther](/assets/images/2019-03-31_Foto_Lesung_2.JPG)
+
+![Lesung Barbara Beuys](/assets/images/2019-03-31_Foto_Lesung_2.JPG)
 
 
 
