@@ -82,6 +82,9 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Alevitische Gemeinde im Rhein-Erft-Kreis
 ![Alevitische Gemeinde im Rhein-Erft-Kreis Logo](/assets/images/Logos/AKM-REK-Logo-90x92.jpg)
 
+  * Kinderschutzbund Hürth
+![Kinderschutzbund Hürth Logo](/assets/images/Logos/Logo_KSB_Huerth_517x92.jpg)
+
   * Stadtsportverband Hürth e.V
 ![Stadtsportverband Hürth e.V Logo](/assets/images/Logos/Stadtsportverband-Huerth-Logo.png)
 
