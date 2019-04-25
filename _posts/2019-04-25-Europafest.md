@@ -1,9 +1,9 @@
+#Das Fest für Europa
+
 Im Herbst des letzten Jahres fanden auf Initiative des ehemaligen Hürther Bürgermeisters Walther Boecker und Sven
 Welter, Sänger der Paveier, zahlreiche Institutionen der Stadt Hürth zusammen, um im Rahmen der Initiative
 #WIRSINDHÜRTHER gemeinsam Ideen zu entwickeln, wieman bei allem aufkommenden Populismus von rechts, positive
 Impulse in die Gesellschaft bringen kann.
-
-#Das Fest für Europa
 
 Mit dabei sind der Kinderschutzbund, die Brücke der Kulturen,
 Hürth rockt, der Lions Club Hürth, die Kirchen, die Hürther Moschee,
