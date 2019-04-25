@@ -94,6 +94,8 @@ Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B.
   * Lionsclub Hürth/Rheinland
 ![Lionsclub Hürth/Rheinland Logo](/assets/images/Logos/Lions-Club-Huerth-Logo-101x92.png)
 
+  * Partnerschaftsverein Hürth e.V.
+![Lionsclub Hürth/Rheinland Logo](/assets/images/Logos/PVH-Logo.jpg)
 
 ## Personen
 
