@@ -1,4 +1,4 @@
-#Das Fest für Europa
+# Das Fest für Europa
 
 Im Herbst des letzten Jahres fanden auf Initiative des ehemaligen Hürther Bürgermeisters Walther Boecker und Sven
 Welter, Sänger der Paveier, zahlreiche Institutionen der Stadt Hürth zusammen, um im Rahmen der Initiative
@@ -12,7 +12,7 @@ Initiative gemeinsam und somit als Teil der Gesellschaft und nicht politisch
 engagieren. Die ersten Projekte wurden in der Zwischenzeit auf den
 Weg gebracht.
 
-##Fest für Europa
+## Fest für Europa
 
 Besondere Aufmerksamkeit wird das erste Großprojekt am 12. Mai
 auf sich ziehen, denn dann lädt die Initiative zum Fest für Europa ins
