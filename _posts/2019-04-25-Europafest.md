@@ -5,18 +5,18 @@ Welter, Sänger der Paveier, zahlreiche Institutionen der Stadt Hürth zusammen,
 #WIRSINDHÜRTHER gemeinsam Ideen zu entwickeln, wieman bei allem aufkommenden Populismus von rechts, positive
 Impulse in die Gesellschaft bringen kann.
 
-Mit dabei sind der Kinderschutzbund, die Brücke der Kulturen,
-Hürth rockt, der Lions Club Hürth, die Kirchen, die Hürther Moschee,
-sowie alle im Stadtrat vertretenen Parteien, die sich im Rahmen der
+Mit dabei sind der **Kinderschutzbund**, die **Brücke der Kulturen**,
+**Hürth rockt**, der **Lions Club Hürth**, die **Kirchen**, die **Hürther Moschee**,
+sowie alle im **Stadtrat** vertretenen **Parteien**, die sich im Rahmen der
 Initiative gemeinsam und somit als Teil der Gesellschaft und nicht politisch
 engagieren. Die ersten Projekte wurden in der Zwischenzeit auf den
 Weg gebracht.
 
 ## Fest für Europa
 
-Besondere Aufmerksamkeit wird das erste Großprojekt am 12. Mai
+Besondere Aufmerksamkeit wird das erste Großprojekt am **12. Mai**
 auf sich ziehen, denn dann lädt die Initiative zum Fest für Europa ins
-Lions Zirkuszelt auf dem Willy Brandt Platz ein.
+**Lions Zirkuszelt auf dem Willy Brandt Platz** ein.
 
 Von 14 Uhr – 18 Uhr sind alle Bürger, Familien und Interessierte aus
 Hürth und Umgebung eingeladen, sich zum Thema Europa zu informieren. Pulse of Europe, das NS – Dokumentationszentrum und ein gemeinsamer Infostand der Parteien zur Europawahl bieten Möglichkeiten,
@@ -27,20 +27,20 @@ um das Zelt des Zirkus Casselly ein buntes Programm statt. Der Lions Club
 Hürth, der hier ab Ende April für einen knappen Monat das Hürther
 Lions Club Festival mit zahlreichen Veranstaltungen durchführt, stellt das
 Zelt kostenlos zur Verfügung und kümmert sich um die technische
-Organisation und den Ausschank. Die Firmen Remagen und Klein’s Backstuben sorgen gemeinsam für die kulinarische Versorgung der Gäste.
+Organisation und den Ausschank. Die Firmen **Remagen** und **Klein’s Backstuben** sorgen gemeinsam für die kulinarische Versorgung der Gäste.
 
 Gemeinsam mit dem Kinderschutzbund wird ein spannendes Programm für die Kids, u.a. mit Hüpfburg und Kinderschminken, zusammen -
-gestellt, der FC Hürth sorgt für fußballerische Unterhaltung (Torwandschießen, Fußball-Parcours) und der TV Alpenglühn Hürth bietet weitere sportliche Aktivitäten.
+gestellt, der **FC Hürth** sorgt für fußballerische Unterhaltung (Torwandschießen, Fußball-Parcours) und der **TV Alpenglühn Hürth** bietet weitere sportliche Aktivitäten.
 
-Bürgermeister Dirk Breuerwird die Gäste um 14 Uhr begrüßen und
+**Bürgermeister Dirk Breuer** wird die Gäste um 14 Uhr begrüßen und
 im Anschluss gibt es sowohl auf der Bühne im Zelt, sowie auf dem Gelände vor dem Zelt ein abwechslungsreiches Programm.
 
-Krätzchen-König JP Weber, als legitimer Nachfolger von Hans Süper
-gehandelt, wird mit seiner Urkölschen Art für Laune sorgen, das Tanzstudio Sabine Odenthal ist dabei und Gero Kuntermann, bekannt als
+**Krätzchen-König JP Weber**, als legitimer Nachfolger von Hans Süper
+gehandelt, wird mit seiner Urkölschen Art für Laune sorgen, das Tanzstudio **Sabine Odenthal** ist dabei und **Gero Kuntermann**, bekannt als
 Frontmann der „Clerks“, gibt gemeinsam mit musikalischen Freunden der
 Auf takt Musikschule ein Mitsingkonzert: „Kölsche Leedcher – Hürther
 Tön“.
 
-Sven Welter: „Ich bin begeistert, wie unkompliziert, uneigennützig
+**Sven Welter**: „Ich bin begeistert, wie unkompliziert, uneigennützig
 und zielstrebig, sämtliche Institution zusammen arbeiten und bei all den
 negativen Schlagzeilen und durchaus für die Demokratie gefährlichen populistischen Strömungen, gemeinsam ein Zeichen gesetzt wird für Europa und ein buntes Miteinander.
