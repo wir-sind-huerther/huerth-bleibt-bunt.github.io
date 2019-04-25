@@ -34,6 +34,7 @@ gestellt, der FC Hürth sorgt für fußballerische Unterhaltung (Torwandschieße
 
 Bürgermeister Dirk Breuerwird die Gäste um 14 Uhr begrüßen und
 im Anschluss gibt es sowohl auf der Bühne im Zelt, sowie auf dem Gelände vor dem Zelt ein abwechslungsreiches Programm.
+
 Krätzchen-König JP Weber, als legitimer Nachfolger von Hans Süper
 gehandelt, wird mit seiner Urkölschen Art für Laune sorgen, das Tanzstudio Sabine Odenthal ist dabei und Gero Kuntermann, bekannt als
 Frontmann der „Clerks“, gibt gemeinsam mit musikalischen Freunden der
