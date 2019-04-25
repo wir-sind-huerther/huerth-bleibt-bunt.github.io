@@ -2,13 +2,13 @@
 
 Im Herbst des letzten Jahres fanden auf Initiative des ehemaligen Hürther Bürgermeisters Walther Boecker und Sven
 Welter, Sänger der Paveier, zahlreiche Institutionen der Stadt Hürth zusammen, um im Rahmen der Initiative
-#WIRSINDHÜRTHER gemeinsam Ideen zu entwickeln, wieman bei allem aufkommenden Populismus von rechts, positive
+#WIR SIND HÜRTHER gemeinsam Ideen zu entwickeln, wie man bei allem aufkommenden Populismus von rechts positive
 Impulse in die Gesellschaft bringen kann.
 
 Mit dabei sind der **Kinderschutzbund**, die **Brücke der Kulturen**,
 **Hürth rockt**, der **Lions Club Hürth**, die **Kirchen**, die **Hürther Moschee**,
 sowie alle im **Stadtrat** vertretenen **Parteien**, die sich im Rahmen der
-Initiative gemeinsam und somit als Teil der Gesellschaft und nicht politisch
+Initiative gemeinsam und somit als Teil der Gesellschaft und nicht parteipolitisch
 engagieren. Die ersten Projekte wurden in der Zwischenzeit auf den
 Weg gebracht.
 
@@ -33,14 +33,14 @@ Gemeinsam mit dem Kinderschutzbund wird ein spannendes Programm für die Kids, u
 gestellt, der **FC Hürth** sorgt für fußballerische Unterhaltung (Torwandschießen, Fußball-Parcours) und der **TV Alpenglühn Hürth** bietet weitere sportliche Aktivitäten.
 
 **Bürgermeister Dirk Breuer** wird die Gäste um 14 Uhr begrüßen und
-im Anschluss gibt es sowohl auf der Bühne im Zelt, sowie auf dem Gelände vor dem Zelt ein abwechslungsreiches Programm.
+im Anschluss gibt es sowohl auf der Bühne im Zelt sowie auf dem Gelände vor dem Zelt ein abwechslungsreiches Programm.
 
 **Krätzchen-König JP Weber**, als legitimer Nachfolger von Hans Süper
-gehandelt, wird mit seiner Urkölschen Art für Laune sorgen, das Tanzstudio **Sabine Odenthal** ist dabei und **Gero Kuntermann**, bekannt als
+gehandelt, wird mit seiner urkölschen Art für Laune sorgen, das Tanzstudio **Sabine Odenthal** ist dabei und **Gero Kuntermann**, bekannt als
 Frontmann der „Clerks“, gibt gemeinsam mit musikalischen Freunden der
 Auf takt Musikschule ein Mitsingkonzert: „Kölsche Leedcher – Hürther
 Tön“.
 
 **Sven Welter**: „Ich bin begeistert, wie unkompliziert, uneigennützig
-und zielstrebig, sämtliche Institution zusammen arbeiten und bei all den
-negativen Schlagzeilen und durchaus für die Demokratie gefährlichen populistischen Strömungen, gemeinsam ein Zeichen gesetzt wird für Europa und ein buntes Miteinander.
+und zielstrebig sämtliche Institution zusammenarbeiten und bei all den
+negativen Schlagzeilen und durchaus für die Demokratie gefährlichen populistischen Strömungen gemeinsam ein Zeichen gesetzt wird für Europa und ein buntes Miteinander.
