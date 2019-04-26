@@ -1,13 +1,13 @@
 
 ---
 layout: single
-title:  "Snkündigung Europafest"
+title:  "Ankündigung Europafest"
 date:   2019-04-25 08:00:00 +0100
 toc: false
 header:
  teaser: /assets/images/eurofest.jpg
  image: /assets/images/eurofest.jpg# Das Fest für Europa
-
+---
 Im Herbst des letzten Jahres fanden auf Initiative des ehemaligen Hürther Bürgermeisters Walther Boecker und Sven
 Welter, Sänger der Paveier, zahlreiche Institutionen der Stadt Hürth zusammen, um im Rahmen der Initiative
 #WIR SIND HÜRTHER gemeinsam Ideen zu entwickeln, wie man bei allem aufkommenden Populismus von rechts positive
