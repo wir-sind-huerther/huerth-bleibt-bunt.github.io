@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  ""
+title:  "Ankündigung Europafest"
 date:   2019-04-25 08:00:00 +0100
 toc: false
 header:
