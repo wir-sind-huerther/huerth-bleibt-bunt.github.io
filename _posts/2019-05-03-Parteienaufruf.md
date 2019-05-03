@@ -19,6 +19,6 @@ Geboten wird ein abwechslungsreiches Programm für Groß und Klein. Alle Bürger
 
 "Es ist uns wichtig, gemeinsam auf die Bedeutung der Europawahl hinzuweisen und mit den Menschen dazu im direkten Gespräch zu sein", so die Parteivorsitzenden zu ihrem Beweggrund gemeinsam ein Fest mit zu planen und schließen mit einem Wahlaufruf: "Die Europäische Union beeinflusst in vielen Bereichen unser tägliches Leben: beim Arbeiten und beim Reisen, beim Studieren und in der Währung, beim Umwelt- und Gesundheitsschutz. Viele unserer Gesetze kommen aus der EU oder werden von ihr angestoßen. In Deutschland wird am Sonntag, den 26. Mai 2019 das Europäische Parlament gewählt. An diesem Tag haben die Bürgerinnen und Bürger die Möglichkeit, die EU ganz direkt mitzugestalten: #WÄHLENGEHEN!" 
 
-["Hürther Parteienvertreter"](/assets/images/ 	2019-0503-Parteienaufruf.jpg)
+!["Hürther Parteienvertreter"](/assets/images/2019-0503-Parteienaufruf.jpg)
 Bildunterschrift (v.l.n.r.): 
 Dr. Christian Karaus (FDP), Martina Thomas (Linke), Gudrun Baer (CDU), Britta Bojung (Grüne), Lukas Gottschalk (SPD) 
