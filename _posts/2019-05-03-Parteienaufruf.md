@@ -12,7 +12,9 @@ header:
 "Ein starkes Europa steht für Frieden, Freiheit und Wohlstand", da sind sich die Parteispitzen Gudrun Baer (CDU), Britta Bojung (Grüne), Lukas Gottschalk (SPD), Martina Thomas (Linke) und Dr. Christian Karaus (FDP) einig. Erstmalig haben sich, die im Hürther Rat vertretenen Parteien zusammengetan, um unabhängig von ihren politischen Standpunkten in der Sache ein Projekt der Initiative #WIRSINDHÜRTHER federführend zu organisieren. 
 
 **“Fest für Europa”
+
 Sonntag, 12. Mai 2019, 14 bis 18 Uhr
+
 Lions-Zirkuszelt am Willy-Brandt-Platz**
 
 Geboten wird ein abwechslungsreiches Programm für Groß und Klein. Alle Bürgerinnen und Bürger sind herzlich eingeladen – gemeinsam für Europa.
