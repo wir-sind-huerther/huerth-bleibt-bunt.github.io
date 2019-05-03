@@ -9,7 +9,7 @@ header:
 # Gemeinsam für Europa! 
 ## Hürther Parteien stehen zusammen für ein starkes Europa und für ein weltoffenes und tolerantes Hürth. 
 
-"Ein starkes Europa steht für Frieden, Freiheit und Wohlstand", da sind sich die Parteispitzen Gudrun Baer (CDU), Britta Bojung (Grüne), Lukas Gottschalk (SPD), Martina Thomas (Linke) und Dr. Christian Karaus (FDP) einig. Erstmalig haben sich, die im Hürther Rat vertretenen Parteien zusammengetan, um unabhängig von ihren politischen Standpunkten in der Sache ein Projekt der Initiative #WIRSINDHÜRTHER federführend zu organisieren. 
+"Ein starkes Europa steht für Frieden, Freiheit und Wohlstand", da sind sich die Parteispitzen Gudrun Baer (CDU), Britta Bojung (Grüne), Lukas Gottschalk (SPD), Martina Thomas (Linke) und Dr. Christian Karaus (FDP) einig. Erstmalig haben sich die im Hürther Rat vertretenen Parteien zusammengetan, um unabhängig von ihren politischen Standpunkten in der Sache ein Projekt der Initiative #WIRSINDHÜRTHER federführend zu organisieren. 
 
 **“Fest für Europa”
 
