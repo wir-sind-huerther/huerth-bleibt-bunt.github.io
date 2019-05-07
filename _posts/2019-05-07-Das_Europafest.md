@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Das Europafest"
-date:   2019-05-08 09:00:00 +0100
+date:   2019-05-07 09:00:00 +0100
 toc: false
 header:
  teaser: /assets/images/eurofest.jpg
