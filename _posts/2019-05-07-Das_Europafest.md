@@ -12,7 +12,7 @@ header:
 
 Moderation: Manfred Damaschke
 
-14:00 Grußwort durch Bürgermeister Breuer
+14:00 Grußwort durch Bürgermeister Dirk Breuer
 
 14:15 JP Weber
 
