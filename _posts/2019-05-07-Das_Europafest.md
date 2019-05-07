@@ -34,3 +34,5 @@ Die Alevitische Gemeinde und der Hürther Moscheeverein bieten kleine Snacks an.
 # Bonverkauf
 An den Ständen braucht man kein Bargeld. Wir haben einen Bonverkauf: 1 Bon = 1 €. Bier, Wurst und Fassbrause = 2 Bons, Kaffee, Kuchen und Softdrinks = 1 Bon.
 
+![Artikel "Gero Kuntermann"](/assets/images/2019-05-07-fest1.jpg)
+![Artikel "André Greipel"](/assets/images/2019-05-07-fest2.jpg)
