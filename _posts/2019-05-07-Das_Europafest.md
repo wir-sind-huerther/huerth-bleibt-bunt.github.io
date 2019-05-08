@@ -36,3 +36,5 @@ An den Ständen braucht man kein Bargeld. Wir haben einen Bonverkauf: 1 Bon = 1 
 
 ![Artikel "Gero Kuntermann"](/assets/images/2019-05-07-fest1.jpg)
 ![Artikel "André Greipel"](/assets/images/2019-05-07-fest2.jpg)
+![Artikel "Sabine Odenthal"](/assets/images/2019-05-07-fest3.jpg)
+2019-05-07-fest2
