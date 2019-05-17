@@ -47,8 +47,9 @@ Denn: Die vergangenen Monate und Wochen haben viele Menschen irritiert, verstör
 Wir unterstützen alle, die Aktivitäten in diesem Sinne entwickeln – wie z.B. ["Hürth bleibt bunt!"](https://huerth-bleibt-bunt.de) und die ["Hürther Brücke der Kulturen"](http://huerther-bruecke-der-kulturen.de/). Wir organisieren selbst Projekte, die unsere Ziele unterstützen, und laden alle Hürtherinnen und Hürther ein, sich zu beteiligen und ihre Stimme für Respekt gegenüber allen Menschen und für unser Europa zu erheben.
 
 ## Unser Flyer zum Download
-![Unser Flyer - Vorderseite](/assets/images/2019-05-17Flyer-Vorderseite.pdf)
-![Unser Flyer - Rückseite](/assets/images/2019-05-17-Flyer-Rueckseite.pdf)
+
+> [Unser Flyer - Vorderseite](/assets/images/2019-05-17Flyer-Vorderseite.pdf)
+> [Unser Flyer - Rückseite](/assets/images/2019-05-17-Flyer-Rueckseite.pdf)
 
 {% include gallery id="gallery2" %}
 
