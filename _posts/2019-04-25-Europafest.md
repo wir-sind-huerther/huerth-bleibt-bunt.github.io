@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Ankündigung Europafest"
-date:   2019-08-19 08:00:00 +0100
+date:   2019-05-19 08:00:00 +0100
 toc: false
 header:
  teaser: /assets/images/eurofest.jpg
