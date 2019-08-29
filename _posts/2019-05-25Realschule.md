@@ -11,7 +11,7 @@ header:
  
  # Bericht über unseren Einstieg in  das Schulprojekt
 Unter der Überschrift "Demokratie an Schulen" unterstützt unser Verein die Zusammenarbeit von Hürther Schulen mit dem 
-NS-Dokumentationszentrum in Köln unterstützen. Das Projekt soll zeigen, was Diskriminierung und Rassismus sind und wo uns d
+NS-Dokumentationszentrum in Köln. Das Projekt soll zeigen, was Diskriminierung und Rassismus sind und wo uns d
 iese begegnen. Es werden verschiedene Formen und Ebenen dieser Phänomene thematisiert, eigene Bilder und Stereotype reflektiert 
 und Handlungsmöglichkeiten gegen Rassismus und Diskriminierung im Alltag besprochen.
 
