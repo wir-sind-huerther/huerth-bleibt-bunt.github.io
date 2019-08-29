@@ -17,3 +17,5 @@ und Handlungsmöglichkeiten gegen Rassismus und Diskriminierung im Alltag bespro
 Es kann von den Schülerinnen und Schülern ein Verständnis der ideologischen Bestandteile extrem rechter 
 Weltbilder erarbeitet werden. Außerdem untersuchen sie die Auswirkungen auf unsere Gesellschaft. Lokale Beispiele 
 dienen der Beleuchtung verschiedener Spektren der extremen Rechten und ihrer Erscheinungsformen.
+
+![Realschule](/assets/images/2019-05-25-realschule.jpg)
