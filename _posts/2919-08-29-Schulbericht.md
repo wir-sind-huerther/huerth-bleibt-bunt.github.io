@@ -1,13 +1,14 @@
 ---
 layout: single
-title:  "Lesung Ali und Anton"
+title:  "Bericht Schulprojekt"
 date:   2019-08-19 08:00:00 +0100
 toc: false
 header:
 
 ---
 
- # Bericht über unseren Einstieg in  das Schulprojekt
+# Bericht über unseren Einstieg in  das Schulprojekt
+
 Unter der Überschrift "Demokratie an Schulen" unterstützt unser Verein die Zusammenarbeit von Hürther Schulen mit dem 
 NS-Dokumentationszentrum in Köln unterstützen. Das Projekt soll zeigen, was Diskriminierung und Rassismus sind und wo uns d
 iese begegnen. Es werden verschiedene Formen und Ebenen dieser Phänomene thematisiert, eigene Bilder und Stereotype reflektiert 
