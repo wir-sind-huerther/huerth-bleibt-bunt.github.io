@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Demokratie in Schulen/Bericht über unser Projekt in der Realschule"
+title:  "Demokratie in Schulen/Bericht"
 date:   2019-05-25 08:00:00 +0100
 toc: false
 header:
