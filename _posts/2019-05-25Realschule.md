@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Demokratie in Schulen/Bericht"
+title:  "Bericht zum Schulprojekt"
 date:   2019-05-25 12:00:00 +0100
 header:
  image: /assets/images/2019-05-25-realschule.jpg
