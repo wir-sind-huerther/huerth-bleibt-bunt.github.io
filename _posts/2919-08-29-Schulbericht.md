@@ -4,6 +4,8 @@ title:  "Bericht Schulprojekt"
 date:   2019-08-19 08:00:00 +0100
 toc: false
 header:
+ image: /assets/images/2019-05-25-realschule.jpg
+ teaser: /assets/images/2019-05-25-realschule.jpg
 
 ---
 
