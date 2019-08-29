@@ -1,12 +1,13 @@
 ---
 layout: single
 title:  "Demokratie in Schulen/Bericht"
-date:   2019-05-25 16:00:00 +0100
-toc: false
+date:   2019-05-25 12:00:00 +0100
 header:
- image: /assets/images/2019-01-01-Demokratie-an-Schulen-ASG-Header.jpg
- teaser: /assets/images/2019-01-01-Demokratie-an-Schulen-ASG-Header.jpg
- ---
+ image: /assets/images/2019-05-25-realschule.jpg
+ teaser: /assets/images/2019-05-25-realschule.jpg
+ caption: "Eigene Aufnahme [**TS**](https://wir-sind-huerther.de/)"
+---
+
  
  # Bericht über unseren Einstieg in  das Schulprojekt
 Unter der Überschrift "Demokratie an Schulen" unterstützt unser verein die Zusammenarbeit von Hürther Schulen mit dem 
