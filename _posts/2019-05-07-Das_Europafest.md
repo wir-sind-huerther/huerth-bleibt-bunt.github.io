@@ -25,7 +25,7 @@ Moderation: Manfred Damaschke
 17:00 Gero Kuntermann: Mitsingkonzert
 
 Informieren konnte man sich natürlich über WIR SIND HÜRTHER, über das NS-Dokumentationszentrum, über Pulse Of Europe (die beiden letzten waren mit Ständen vertreten).
-Kinderbelustigung wird von verschiedenen Vereinen angeboten.
+Kinderbelustigung wurde von verschiedenen Vereinen angeboten.
 
 Für das leibliche Wohl wurde ebenfalls gesorgt: Getränkestände, Kaffee und Kuchen, Popcorn und Würstchen standen bereit.
 
