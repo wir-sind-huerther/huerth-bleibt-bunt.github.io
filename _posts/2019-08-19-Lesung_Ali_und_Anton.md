@@ -7,7 +7,7 @@ header:
 
 ---
 
-# Lesung in der "Grundschule im Zentrum"
+# Lesung: "Grundschule im Zentrum"
 
 ![Ali und Anton, Handzettel](/assets/images/2019-08-19-AliAnton.jpg)
 
