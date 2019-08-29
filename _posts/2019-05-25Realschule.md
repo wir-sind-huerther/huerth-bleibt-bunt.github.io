@@ -6,7 +6,6 @@ toc: false
 header:
  image: /assets/images/2019-01-01-Demokratie-an-Schulen-ASG-Header.jpg
  teaser: /assets/images/2019-01-01-Demokratie-an-Schulen-ASG-Header.jpg
- caption: "Eigene Aufnahme [**TS**](https://wir-sind-huerther.de/)"
  ---
  
  # Bericht über unseren Einstieg in  das Schulprojekt
