@@ -1,13 +1,14 @@
 ---
 layout: single
 title:  "Demokratie in Schulen/Bericht"
-date:   2019-05-25 08:00:00 +0100
+date:   2019-05-25 16:00:00 +0100
 toc: false
 header:
  image: /assets/images/2019-01-01-Demokratie-an-Schulen-ASG-Header.jpg
  teaser: /assets/images/2019-01-01-Demokratie-an-Schulen-ASG-Header.jpg
  caption: "Eigene Aufnahme [**TS**](https://wir-sind-huerther.de/)"teaser: /assets/images/2019-01-01-Lesungen-Header.jpg
  ---
+ 
  # Bericht über unseren Einstieg in  das Schulprojekt
 Unter der Überschrift "Demokratie an Schulen" unterstützt unser verein die Zusammenarbeit von Hürther Schulen mit dem 
 NS-Dokumentationszentrum in Köln unterstützen. Das Projekt soll zeigen, was Diskriminierung und Rassismus sind und wo uns d
