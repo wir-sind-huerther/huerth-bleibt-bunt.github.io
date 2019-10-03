@@ -8,7 +8,7 @@ header:
  caption: "Eigene Aufnahme [**TS**](https://wir-sind-huerther.de/)"
 ---
 
-# Bericht über eine Lesung in der Grundschule im Zentrum: Anton und Ali
+# Anton und Ali
 
 Zum ersten Mal sehen sich die beiden Jungen Ali und Anton an ihrem ersten Kindergartentag – 
 und sie mögen sich überhaupt nicht. Sie sind sich fremd. Aber dann schafft es ein Mädchen im Kindergarten durch 
