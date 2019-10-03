@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Bericht Lesung Grundschule"
-date:   2019-08-19 08:00:00 +0100
+date:   2019-10-03 08:00:00 +0100
 toc: false
 header:
  image: /assets/images/2019-10-03-top.jpg
