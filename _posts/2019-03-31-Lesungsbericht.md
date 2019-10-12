@@ -39,6 +39,8 @@ Jahres angedacht.
 
 ![Lesung Barbara Beuys](/assets/images/2019-03-31_Foto_Lesung_1.JPG)
 
+![Bericht_Lesung](/assets/images/2019-03-20-Presse_Lesung.jpg)
+
 
 
 
