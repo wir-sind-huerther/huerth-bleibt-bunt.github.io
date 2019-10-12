@@ -11,6 +11,6 @@ header:
 
 # Pressebericht zur Lesung
 
-Bereits am 20.03.2019 fand unsre erste Lesung statt. Hier verspätet ein Pressebericht
+Bereits am 20.03.2019 fand unsere erste Lesung statt. Hier verspätet ein Pressebericht
 
 ![Bericht_Lesung](/assets/images/2019-03-20-Presse_Lesung.jpg)
