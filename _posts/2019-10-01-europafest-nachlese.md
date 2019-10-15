@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Nachlese zum Europafest"
-date:   2019-03-31 08:00:00 +0100
+date:   2019-09-27 08:00:00 +0100
 toc: false
 header:
  teaser: /assets/images/2019-10-07-europafest (2).jpg
