@@ -39,3 +39,5 @@ Deshalb ist es folgerichtig, dass wir beabsichtigen auch im nächsten Jahr ein F
 
 > [Zip-Datei mit einigen Bildern vom Fest"](/assets/images/Europafest.zip)
 
+Viele Fotos stammen von Peter Zulajew. Danke.
+
