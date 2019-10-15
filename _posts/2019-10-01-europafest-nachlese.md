@@ -37,5 +37,5 @@ Deshalb ist es folgerichtig, dass wir beabsichtigen auch im nächsten Jahr ein F
 
 ![Eupafest](/assets/images/2019-10-07-europafest (10).jpg)
 
-> [Zip-Datei mit einigen Bildern vom Festr"](/assets/images/Europafest.zip)
+> [Zip-Datei mit einigen Bildern vom Fest"](/assets/images/Europafest.zip)
 
