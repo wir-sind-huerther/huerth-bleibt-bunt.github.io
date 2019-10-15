@@ -35,7 +35,7 @@ Wir Sind Hürther sieht es auch weiterhin als seine Aufgabe an die Menschen in H
 Deshalb ist es folgerichtig, dass wir beabsichtigen auch im nächsten Jahr ein Fest zu organisieren unter der 
 Überschrift "Toleranz und Weltoffenheit"
 
-![Eupafest](/assets/images/2019-10-03-FotoLesungÖzdemir.jpg)
+![Eupafest](/assets/images/2019-10-07-europafest (10).jpg)
 
 > [Zip-Datei mit einigen Bildern vom Festr"](/assets/images/Europafest.zip)
 
