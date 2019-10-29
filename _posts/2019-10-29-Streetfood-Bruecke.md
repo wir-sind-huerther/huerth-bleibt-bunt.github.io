@@ -16,7 +16,7 @@ bereits um 16:00 Uhr verbacken waren.
 
 Wichtigstes Ergebnis des Festes war wahrscheinlich, dass die Begegnung unterschiedlicher Kulturen viel zu selten stattfindet.
 
-Siehe auch den [Artikel des Kölner Stadtanzeigers zum Fest](https://www.ksta.de/region/rhein-erft/huerth/huerth-als-zweite-heimat-verein-hilft-fluechtlingen-bei-der-schwierigen-eingewoehnung-33381520/ "title" target="_blank")
+Siehe auch den [Artikel des Kölner Stadtanzeigers zum Fest](https://www.ksta.de/region/rhein-erft/huerth/huerth-als-zweite-heimat-verein-hilft-fluechtlingen-bei-der-schwierigen-eingewoehnung-33381520)
 
 Hier einige Impressionen:
 ![Streetfood1](/assets/images/20191027_140956.jpg)
