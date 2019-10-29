@@ -15,8 +15,8 @@ Wir-Sind-Hürther waren natürlich am Street-Food-Fest der Hürther Brücke der 
 Fest mit großem Appetit aller Beteiligten. Wir sehen es als gutes Zeichen, dass unsere drei großen Schüsseln mit Waffelteig 
 bereits um 16:00 verbacken waren.
 Wichtigstes Ergebnis des Festes war wahrscheinlich, dass die Begegnung unterschiedlicher Kulturen viel zu selten stattfindet.
-Siehe auch den [Artikel des Kölner Stadtanzeigers zum Fest](https://www.ksta.de/region/rhein-erft/huerth/huerth-als-zweite-heimat-verein-hilft-fluechtlingen-bei-der-schwierigen-eingewoehnung-33381520)
-https://www.ksta.de/region/rhein-erft/huerth/huerth-als-zweite-heimat-verein-hilft-fluechtlingen-bei-der-schwierigen-eingewoehnung-33381520
+Siehe auch den [Artikel des Kölner Stadtanzeigers zum Fest](https://www.ksta.de/region/rhein-erft/huerth/huerth-als-zweite-heimat-verein-hilft-fluechtlingen-bei-der-schwierigen-eingewoehnung-33381520 target="_blank")
+
 hier einige Impressionen:
 
 ![Heimat_es](/assets/images/2019-10-10-heimat_es.jpg)
