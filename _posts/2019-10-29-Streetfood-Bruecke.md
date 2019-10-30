@@ -18,7 +18,7 @@ Wichtigstes Ergebnis des Festes war wahrscheinlich, dass die Begegnung unterschi
 
 Siehe auch den [Artikel des Kölner Stadtanzeigers zum Fest](https://www.ksta.de/region/rhein-erft/huerth/huerth-als-zweite-heimat-verein-hilft-fluechtlingen-bei-der-schwierigen-eingewoehnung-33381520)
 
-<ahref="https://www.ksta.de/region/rhein-erft/huerth/huerth-als-zweite-heimat-verein-hilft-fluechtlingen-bei-der-schwierigen-eingewoehnung-33381520" target="_blank">fufgukg</a>
+<ahref="https://www.ksta.de/region/rhein-erft/huerth/huerth-als-zweite-heimat-verein-hilft-fluechtlingen-bei-der-schwierigen-eingewoehnung-33381520" target="_blank">Artikel des Kölner Stadtanzeigers zum Fest</a>
 
 Hier einige Impressionen:
 ![Streetfood1](/assets/images/20191027_140956.jpg)
