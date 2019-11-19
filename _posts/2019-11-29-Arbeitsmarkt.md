@@ -84,10 +84,7 @@ kommst du her
 ![Arbeitsmarkt4](/assets/images/19_11_14_Veranstaltung-Unternehmer-2.JPG)
 Fotos Copyright: Elke Petrasch-Brucher
 
-![Arbeitsmarkt2](/assets/images/19_11_14_KStA_Veranstaltung-Unternehmer.pdf)
-
-
 ![Arbeitsmarkt4](/assets/images/19_11_14_Veranstaltung-Unternehmer-2.JPG)
-
+> [Download pdf-Datei](/assets/images/19_11_14_KStA_Veranstaltung-Unternehmer.pdf)
 Fotos Copyright: Elke Petrasch-Brucher
 
