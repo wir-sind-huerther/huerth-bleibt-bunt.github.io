@@ -24,8 +24,8 @@ kam er zur Diskussionsveranstaltung ins Forum der Friedrich-Ebert-Realschule in 
 zugleich auch eine Herausforderung“, sagte Sven Welter, Vorsitzender des Vereins „Wir sind
 Hürther“ und Frontmann der
 Band Paveier.
-![Arbeitsmarkt1](/assets/images/19-11-14-artikel.jpg)
 
+![Arbeitsmarkt4](/assets/images/19_11_14_Veranstaltung-Unternehmer-2.JPG)
 Der frühere Hürther Bürgermeister und Vorstandsmitglied
 Walter Boecker stellte dem Podium die provokante Frage
 „Braucht Deutschland Einwanderung– braucht Hürth Einwanderung?“. „Unbedingt“, lautete
@@ -81,7 +81,7 @@ hier in Hürth eine zweite Heimat
 gefunden hätten, solle man auf
 die Potenziale schauen und ihnen eine Lebensperspektive geben. Und nicht fragen: „Wo
 kommst du her
-![Arbeitsmarkt4](/assets/images/19_11_14_Veranstaltung-Unternehmer-2.JPG)
+![Arbeitsmarkt1](/assets/images/19-11-14-artikel.jpg)
 Fotos Copyright: Elke Petrasch-Brucher
 
 ![Arbeitsmarkt4](/assets/images/19_11_14_Veranstaltung-Unternehmer-2.JPG)
