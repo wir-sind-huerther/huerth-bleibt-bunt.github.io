@@ -81,10 +81,9 @@ hier in Hürth eine zweite Heimat
 gefunden hätten, solle man auf
 die Potenziale schauen und ihnen eine Lebensperspektive geben. Und nicht fragen: „Wo
 kommst du her
-![Arbeitsmarkt1](/assets/images/19-11-14-artikel.jpg)
-Fotos Copyright: Elke Petrasch-Brucher
 
-![Arbeitsmarkt4](/assets/images/19_11_14_Veranstaltung-Unternehmer-2.JPG)
+Fotos Copyright: Elke Petrasch-Brucher
+![Arbeitsmarkt1](/assets/images/19-11-14-artikel.jpg)
 > [Download pdf-Datei](/assets/images/19_11_14_KStA_Veranstaltung-Unternehmer.pdf)
 Fotos Copyright: Elke Petrasch-Brucher
 
