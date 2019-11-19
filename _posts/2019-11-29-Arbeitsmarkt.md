@@ -8,6 +8,8 @@ header:
  teaser: /assets/images/19_11_14_Veranstaltung-Unternehmer-header.jpg
  caption: "Eigene Aufnahme [**TS**](https://wir-sind-huerther.de/)"
 ---
+Fotos Copyright: Elke Petrasch-Brucher
+
 Hürth. „Ich liebe meinen Job“,
 sagte Ramin Tahnasebi und
 strahlte. Der 32-Jährige macht
@@ -22,6 +24,7 @@ kam er zur Diskussionsveranstaltung ins Forum der Friedrich-Ebert-Realschule in 
 zugleich auch eine Herausforderung“, sagte Sven Welter, Vorsitzender des Vereins „Wir sind
 Hürther“ und Frontmann der
 Band Paveier.
+![Arbeitsmarkt1](/assets/images/19-11-14-artikel.jpg)
 
 Der frühere Hürther Bürgermeister und Vorstandsmitglied
 Walter Boecker stellte dem Podium die provokante Frage
@@ -39,6 +42,7 @@ drückte es noch drastischer aus:
 Fachkräfte im Handwerk. Auch
 an Auszubildenden mangelt es.
 Es gibt immer weniger Schulabgänger, und viele sehen als Perspektive eher ein Studium als eine Ausbildung.“
+![Arbeitsmarkt3](/assets/images/19_11_14_Veranstaltung-Unternehmer-1.JPG)
 
 Neu ist das Problem nicht.
 „1956 haben wir die ersten Gastarbeiter aus Italien begrüßt,
@@ -77,9 +81,13 @@ hier in Hürth eine zweite Heimat
 gefunden hätten, solle man auf
 die Potenziale schauen und ihnen eine Lebensperspektive geben. Und nicht fragen: „Wo
 kommst du her
+![Arbeitsmarkt4](/assets/images/19_11_14_Veranstaltung-Unternehmer-2.JPG)
+Fotos Copyright: Elke Petrasch-Brucher
 
-![Arbeitsmarkt1](/assets/images/19-11-14-artikel.jpg)
 ![Arbeitsmarkt2](/assets/images/19_11_14_KStA_Veranstaltung-Unternehmer.pdf)
-![Arbeitsmarkt3](/assets/images/19_11_14_Veranstaltung-Unternehmer-1.JPG)
+
+
 ![Arbeitsmarkt4](/assets/images/19_11_14_Veranstaltung-Unternehmer-2.JPG)
-![Arbeitsmarkt4](/assets/images/19_11_14_Veranstaltung-Unternehmer-2.JPG)
+
+Fotos Copyright: Elke Petrasch-Brucher
+
