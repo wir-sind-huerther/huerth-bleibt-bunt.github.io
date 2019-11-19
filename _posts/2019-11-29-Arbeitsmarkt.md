@@ -83,6 +83,7 @@ die Potenziale schauen und ihnen eine Lebensperspektive geben. Und nicht fragen:
 kommst du her
 
 Fotos Copyright: Elke Petrasch-Brucher
+
 ![Arbeitsmarkt1](/assets/images/19-11-14-artikel.jpg)
 > [Download pdf-Datei](/assets/images/19_11_14_KStA_Veranstaltung-Unternehmer.pdf)
 Fotos Copyright: Elke Petrasch-Brucher
