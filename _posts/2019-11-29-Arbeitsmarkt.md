@@ -71,7 +71,7 @@ nur die Sprache, sondern auch,
 „Deutschland“ zu lernen, sagte
 Wollseifer.
 
-FürLeoBerg,Betriebsratsvorsitzender des Industrieunternehmens Orion, sind die Syrer
+Für Leo Berg,Betriebsratsvorsitzender des Industrieunternehmens Orion, sind die Syrer
 im Werk keine Ausländer oder
 Flüchtlinge mehr, sondern einfach Kollegen. Vor allem aber
 sind sie Menschen. „Bei rechter
