@@ -8,6 +8,7 @@ header:
  teaser: 
  caption: "Eigene Aufnahme [**TS**](https://wir-sind-huerther.de/)"
 ---
+# Edelweißpiratenfestival in Hürth
 Als 2005 im Friedenspark das erste Edelweißpiratenfestival im Kölner Friedenspark startete, lebten Mucki Koch, Jean Jülich und Peter Schäfer noch. Im 16. Jahr des Festivals verhinderte nun Corona mit dem Verbot von größeren Veranstaltungen eine einfache Fortsetzung. So ging das Festival auf Tour und bot in vielen kleinen Konzerten Gelegenheit sich im „Geiste der Edelweißpiraten für eine weltoffene, solidarische Heimatkultur zu engagieren!“ Ein Ziel, dem sich auch Wir-sind-Hürther verpflichtet fühlen.
 
 ![Edelweiss](/assets/images/2020-08-19-edelweiss2.JPG)
