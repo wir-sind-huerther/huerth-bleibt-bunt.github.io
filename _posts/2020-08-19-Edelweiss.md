@@ -10,7 +10,7 @@ header:
 ---
 Als 2005 im Friedenspark das erste Edelweißpiratenfestival im Kölner Friedenspark startete, lebten Mucki Koch, Jean Jülich und Peter Schäfer noch. Im 16. Jahr des Festivals verhinderte nun Corona mit dem Verbot von größeren Veranstaltungen eine einfache Fortsetzung. So ging das Festival auf Tour und bot in vielen kleinen Konzerten Gelegenheit sich im „Geiste der Edelweißpiraten für eine weltoffene, solidarische Heimatkultur zu engagieren!“ Ein Ziel, dem sich auch Wir-sind-Hürther verpflichtet fühlen.
 
-![Edelweiss](/assets/images/2020-08-19-edelweiss2.jpg)
+![Edelweiss](/assets/images/2020-08-19-edelweiss2.JPG)
 
 Die Abschlussveranstaltung fand nun im Kulturbiergarten in Hürth statt. Vorgestellt wurden die Musiker*innen von Kulturamtsleiterin Kati Ulrich. Frau Ulrich, Bürgermeister Breuer und Jan Krauthäuser führten in die Geschichte der Edelweißpiraten ein (genaueres: www.edelweisspiratenfestival.de). Erst spät wurde der Widerstand der Edelweißpiraten anerkannt und das unangepasste Verhalten der Navajos u.a. nicht mehr als unpolitisch oder gar kriminell angesehen. Heute gelten sie als wichtigstes Beispiel für jugendlichen Widerstand in Deutschland.
 
@@ -23,5 +23,5 @@ Kuntermann und Gaatz eröffneten dann mit ihrer Mischung, die von schottisch-iri
 Den Abschluss machten Klaus der Geiger und Marius Peters an der Gitarre. Klaus ist Mitbegründer des Edelweißpiratenfestivals und zeigte mit seinen eigenen Liedern, wie man soziales Engagement in Lieder umsetzt: auch die Coronakrise konnte da als Aufruf zum Umdenken gesehen werden.
 Die Veranstaltung war sicher kein Ersatz für die tausendfachen Begegnungen beim Edelweißpiratenfest im Friedenspark. Verdienstvoll ist es aber allein schon, dass man mit den kleinen Festivals im Umland für eine Fortsetzung gesorgt hat. Für Hürth bleibt das Fest ein Anstoß die Situation des Widerstands in unserer Stadt zu betrachten und ein wichtiger Beitrag für eine „weltoffenere, solidarische Heimatkultur“.
 
-![Edelweiss](/assets/images/2020-08-19-edelweiss4.jpg)
+![Edelweiss](/assets/images/2020-08-19-edelweiss4.JPG)
 
