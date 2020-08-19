@@ -24,4 +24,5 @@ Den Abschluss machten Klaus der Geiger und Marius Peters an der Gitarre. Klaus i
 Die Veranstaltung war sicher kein Ersatz für die tausendfachen Begegnungen beim Edelweißpiratenfest im Friedenspark. Verdienstvoll ist es aber allein schon, dass man mit den kleinen Festivals im Umland für eine Fortsetzung gesorgt hat. Für Hürth bleibt das Fest ein Anstoß die Situation des Widerstands in unserer Stadt zu betrachten und ein wichtiger Beitrag für eine „weltoffenere, solidarische Heimatkultur“.
 
 ![Edelweiss](/assets/images/2020-08-19-edelweiss4.JPG)
+(Stadtarchivar Michael Cöln und Jan Krauthäuser vom Edelweißpiratenfestival)
 
