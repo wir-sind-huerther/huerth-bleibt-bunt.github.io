@@ -12,7 +12,7 @@ Als 2005 im Friedenspark das erste Edelweißpiratenfestival im Kölner Friedensp
 
 ![Edelweiss](/assets/images/2020-08-19-edelweiss2.JPG)
 
-Die Abschlussveranstaltung fand nun im Kulturbiergarten in Hürth statt. Vorgestellt wurden die Musiker*innen von Kulturamtsleiterin Kati Ulrich. Frau Ulrich, Bürgermeister Breuer und Jan Krauthäuser führten in die Geschichte der Edelweißpiraten ein (genaueres: www.edelweisspiratenfestival.de). Erst spät wurde der Widerstand der Edelweißpiraten anerkannt und das unangepasste Verhalten der Navajos u.a. nicht mehr als unpolitisch oder gar kriminell angesehen. Heute gelten sie als wichtigstes Beispiel für jugendlichen Widerstand in Deutschland.
+Die Abschlussveranstaltung fand nun im Kulturbiergarten in Hürth statt. Vorgestellt wurden die Musiker*innen von Kulturamtsleiterin Kati Ulrich. Frau Ulrich, Bürgermeister Breuer und Jan Krauthäuser führten in die Geschichte der Edelweißpiraten ein (genaueres: <a href="https://www.edelweisspiratenfestival.de" target="_blank">www.edelweisspiratenfestival.de</a>). Erst spät wurde der Widerstand der Edelweißpiraten anerkannt und das unangepasste Verhalten der Navajos u.a. nicht mehr als unpolitisch oder gar kriminell angesehen. Heute gelten sie als wichtigstes Beispiel für jugendlichen Widerstand in Deutschland.
 
 ![Edelweiss](/assets/images/2020-08-19-edelweiss1.jpg)
 
