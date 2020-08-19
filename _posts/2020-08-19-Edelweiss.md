@@ -26,3 +26,5 @@ Die Veranstaltung war sicher kein Ersatz für die tausendfachen Begegnungen beim
 ![Edelweiss](/assets/images/2020-08-19-edelweiss4.JPG)
 (Stadtarchivar Michael Cöln und Jan Krauthäuser vom Edelweißpiratenfestival)
 
+Danke für die Bilder an Kati Ulrich und Jan Krauthäuser
+
