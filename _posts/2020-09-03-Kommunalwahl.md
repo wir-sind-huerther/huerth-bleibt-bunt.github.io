@@ -20,6 +20,7 @@ Was von einer AFD-Fraktion im Hürther Stadtrat zu erwarten ist, bleibt unbekann
 Wer etwas über die AFD in den kommunalen Gremien anderer Städte erfahren will, kann z.B. hier nachlesen:
 
 https://www.weiterdenken.de/sites/default/files/uploads/2016/06/nattke_parlamentarische_praxis_der_afd_in_den_kommunalparlamenten_sachsens.pdf
+
 https://www.rosalux.de/fileadmin/rls_uploads/pdfs/sonst_publikationen/Broschur_Raet-innen-gegen-rechts.pdf
 
 https://www.fnp.de/politik/parlamentsarbeit-unter-lupe-10507573.html
