@@ -29,7 +29,7 @@ Wer etwas über die AFD in den kommunalen Gremien anderer Städte erfahren will,
 Die Wahlprogramme anderer Hürther Parteien kann man hier einsehen:
 
 
-<a href="https://www.cdu-huerth.de/wp-content/uploads/2020/08/CDU-Huerth_Arbeitsprogramm_2020-2025.pdf/" target="_blank">https://www.cdu-huerth.de/wp-content/uploads/2020/08/CDU-Huerth_Arbeitsprogramm_2020-2025.pdf</a>
+<a href="https://www.cdu-huerth.de/wp-content/uploads/2020/08/CDU-Huerth_Arbeitsprogramm_2020-2025.pdf" target="_blank">https://www.cdu-huerth.de/wp-content/uploads/2020/08/CDU-Huerth_Arbeitsprogramm_2020-2025.pdf</a>
 
 <a href="https://spd-huerth.de/wahlprogramm/" target="_blank">https://spd-huerth.de/wahlprogramm/</a>
 
