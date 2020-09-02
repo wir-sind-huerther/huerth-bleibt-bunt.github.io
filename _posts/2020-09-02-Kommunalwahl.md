@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Kommunalwahl 2020"
-date:   2020-08-02 08:00:00 +01009
+date:   2020-09-02 08:00:00 +01009
 toc: false
 header:
  image: 
